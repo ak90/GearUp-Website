@@ -1,0 +1,54 @@
+.header{
+	background: url("img2.jpg") no-repeat center center;
+	background-size: cover;
+	padding-top: 400px;
+	text-align: center;
+	height: 40em;
+	color: #ffffff;
+	z-index: 0;
+}
+
+.midsection{
+	background-color: #cdcde0;
+	color: #111111;
+	text-align: center;
+	padding-top: 8em;
+	padding-bottom: 8em;
+	font-family: "Helvetica", sans-serif;
+
+}
+
+.midsection h4{
+	line-height: 0.2em;
+}
+
+.midsection h5{
+	line-height: 1.4em;
+}
+
+.bottom{
+	padding: 3em 0em;
+	background-color: #e6e6e6;
+	color: #111111;
+	text-align: left;
+	font-family: "Helvetica", sans-serif;
+
+}
+
+.footer{
+	background: #000000;
+	color: #aeaeae;
+	padding-top: 1em;
+	font-family: "Helvetica", sans-serif;
+}
+
+.background-image 
+{ 
+background: url("cs1.png") no-repeat;
+background-size: 100%;
+margin: auto;
+height:100px;
+width:150px;
+}
+
+
